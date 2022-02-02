@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Prodotto
+comment1.params=_a\ _b\ _p\ _q
+comment1.target=Prodotto(java.lang.String,\ java.lang.String,\ float,\ int)
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Prodotto\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCodice()
+comment3.params=
+comment3.target=java.lang.String\ getDesc()
+comment4.params=
+comment4.target=float\ getPrezzo()
+comment5.params=
+comment5.target=int\ getQuantity()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
